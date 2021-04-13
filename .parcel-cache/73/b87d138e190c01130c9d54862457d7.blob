@@ -328,7 +328,11 @@ template {
   background-color: black;
 }
 .sidepanel__text {
-  height: 25px;
-  width: 100px;
-  transform: rotate(-90deg);
+  height: 180px;
+  width: 25px;
+}
+.sidepanel__text span {
+  transform: rotate(-90deg) translate(-30%, -280%);
+  display: block;
+  width: 150px;
 }

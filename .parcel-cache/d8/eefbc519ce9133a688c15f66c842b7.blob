@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Udemy Portfolio</title>
+    <meta name="title" content="Мое портфолио">
+    <meta name="description" content="Здесь вы сможете ознакомиться с моими работами и узнать больше обо мне">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://metatags.io/">
+    <meta property="og:title" content="Мое портфолио">
+    <meta property="og:description" content="Здесь вы сможете ознакомиться с моими работами и узнать больше обо мне">
+    <meta property="og:image" content="fb74e2042350a2d8bfa9ffb042bb06fd">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://metatags.io/">
+    <meta property="twitter:title" content="Мое портфолио">
+    <meta property="twitter:description" content="Здесь вы сможете ознакомиться с моими работами и узнать больше обо мне">
+    <meta property="twitter:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">
+
+    <!-- Favicon  -->
+    <link rel="apple-touch-icon" sizes="57x57" href="53f4e5a09f3790d856104cbbf71f69fb">
+    <link rel="apple-touch-icon" sizes="60x60" href="14bd7d747c88ca2b41e5beb48102b1f7">
+    <link rel="apple-touch-icon" sizes="72x72" href="cae3e5ef82a0f17511f9970636ea9e0b">
+    <link rel="apple-touch-icon" sizes="76x76" href="771dd16c66c4d536d056addb46e9a3f7">
+    <link rel="apple-touch-icon" sizes="114x114" href="2cdabe19a48596b5547e8e01ebffdeca">
+    <link rel="apple-touch-icon" sizes="120x120" href="11cab6f01fd03316d5e7537796730071">
+    <link rel="apple-touch-icon" sizes="144x144" href="d692ce418ce6404ef48b8f7510781e68">
+    <link rel="apple-touch-icon" sizes="152x152" href="2aa3feafc98b3833f702810eeb414887">
+    <link rel="apple-touch-icon" sizes="180x180" href="243a3d4a8f10cf9e5610ba9a33683630">
+    <link rel="icon" type="image/png" sizes="192x192" href="08262b3064c9add59ccd0ea8bb5e9179">
+    <link rel="icon" type="image/png" sizes="32x32" href="76b429db15147e74651fcf4824e7cf03">
+    <link rel="icon" type="image/png" sizes="96x96" href="61da0e6b72e2e3411badf608c3af30ee">
+    <link rel="icon" type="image/png" sizes="16x16" href="e53135f28519b76f1d3b941e4ba563fc">
+    <link rel="manifest" href="7b9ade8fb5ce285903293546ad80fb02">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="a742feb2320866c5a4a93b5c2071b83d">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="stylesheet" href="81b6256be3fb7181103387a94b0cf93d">
+    <script src="798215550bef99ec1741a25f15dc1834"></script>
+
+    <link rel="stylesheet" href="d1e48167ff549099fad9cf453a5ea6ef">
+
+</head>
+
+<body>
+    <aside class="sidepanel">
+        <a href="24b3af48835ad1023fd2c66204edbb43" class="sidepanel__link" target="_blank">
+            <svg id="Bold" enable-background="new 0 0 24 24" height="20" viewbox="0 0 24 24" width="20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="m12 .5c-6.63 0-12 5.28-12 11.792 0 5.211 3.438 9.63 8.205 11.188.6.111.82-.254.82-.567 0-.28-.01-1.022-.015-2.005-3.338.711-4.042-1.582-4.042-1.582-.546-1.361-1.335-1.725-1.335-1.725-1.087-.731.084-.716.084-.716 1.205.082 1.838 1.215 1.838 1.215 1.07 1.803 2.809 1.282 3.495.981.108-.763.417-1.282.76-1.577-2.665-.295-5.466-1.309-5.466-5.827 0-1.287.465-2.339 1.235-3.164-.135-.298-.54-1.497.105-3.121 0 0 1.005-.316 3.3 1.209.96-.262 1.98-.392 3-.398 1.02.006 2.04.136 3 .398 2.28-1.525 3.285-1.209 3.285-1.209.645 1.624.24 2.823.12 3.121.765.825 1.23 1.877 1.23 3.164 0 4.53-2.805 5.527-5.475 5.817.42.354.81 1.077.81 2.182 0 1.578-.015 2.846-.015 3.229 0 .309.21.678.825.56 4.801-1.548 8.236-5.97 8.236-11.173 0-6.512-5.373-11.792-12-11.792z" fill="black"></path></svg>
+        </a>
+
+        <a href="3d00bc139925d5f837f8ab8ca822b263" class="sidepanel__link" target="_blank">
+            <svg width="20" height="20" viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M-6.01032e-07 6.25L-2.73196e-07 13.75C-1.22337e-07 17.2012 2.79875 20 6.25 20L13.75 20C17.2013 20 20 17.2012 20 13.75L20 6.25C20 2.79875 17.2012 -7.51891e-07 13.75 -6.01032e-07L6.25 -2.73196e-07C2.79875 -1.22337e-07 -7.51891e-07 2.79875 -6.01032e-07 6.25ZM13.75 1.875C16.1625 1.875 18.125 3.8375 18.125 6.25L18.125 13.75C18.125 16.1625 16.1625 18.125 13.75 18.125L6.25 18.125C3.8375 18.125 1.875 16.1625 1.875 13.75L1.875 6.25C1.875 3.8375 3.8375 1.875 6.25 1.875L13.75 1.875Z" fill="black"></path>
+            <path d="M5 10C5 12.7612 7.23875 15 10 15C12.7613 15 15 12.7612 15 10C15 7.23875 12.7612 5 10 5C7.23875 5 5 7.23875 5 10ZM13.125 10C13.125 11.7225 11.7225 13.125 10 13.125C8.27625 13.125 6.875 11.7225 6.875 10C6.875 8.2775 8.27625 6.875 10 6.875C11.7225 6.875 13.125 8.2775 13.125 10Z" fill="black"></path>
+            <path d="M5.29123 4.625C5.29123 4.25704 4.99295 3.95875 4.62499 3.95875C4.25703 3.95875 3.95874 4.25704 3.95874 4.625C3.95874 4.99296 4.25703 5.29125 4.62499 5.29125C4.99295 5.29125 5.29123 4.99296 5.29123 4.625Z" fill="black"></path>
+            </svg>
+        </a>
+
+        <a href="494f0af3c1c1e1615d5b14209477354c" class="sidepanel__link" target="_blank">
+            <svg width="20" height="20" viewbox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M15 30C23.2863 30 30 23.2863 30 15C30 6.71375 23.2863 0 15 0C6.71375 0 0 6.71375 0 15C0 23.2863 6.71375 30 15 30ZM6.86375 14.675L21.3263 9.09875C21.9975 8.85625 22.5837 9.2625 22.3662 10.2775L22.3675 10.2762L19.905 21.8775C19.7225 22.7 19.2337 22.9 18.55 22.5125L14.8 19.7487L12.9912 21.4913C12.7912 21.6913 12.6225 21.86 12.235 21.86L12.5013 18.0438L19.4513 11.765C19.7537 11.4987 19.3837 11.3488 18.985 11.6138L10.3963 17.0212L6.69375 15.8663C5.89 15.6112 5.8725 15.0625 6.86375 14.675Z" fill="black"></path>
+            </svg>
+        </a>
+        
+        <div class="sidepanel__divider"></div>
+        <div class="sidepanel__text"><span>Social media</span></div>
+    </aside>
+
+    <section class="promo">
+        <div class="container">
+            <div class="title fz16 promo__mixin">My name is Yuri</div>
+            <h1 class="title fz48 promo__title">I'm future web-developer</h1>
+
+            <div class="promo__btns">
+                <a href="#" class="promo__link btn">Portfolio</a>
+                
+                <a href="#" class="promo__link">About me</a>
+            </div>
+        </div>
+    </section>
+    <script src="c7bb26c5e85e29dbd5807c89946ff381"></script>
+</body>
+</html>

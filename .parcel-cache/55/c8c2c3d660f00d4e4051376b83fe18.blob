@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Udemy Portfolio</title>
+    <meta name="title" content="Мое портфолио">
+    <meta name="description" content="Здесь вы сможете ознакомиться с моими работами и узнать больше обо мне">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://metatags.io/">
+    <meta property="og:title" content="Мое портфолио">
+    <meta property="og:description" content="Здесь вы сможете ознакомиться с моими работами и узнать больше обо мне">
+    <meta property="og:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://metatags.io/">
+    <meta property="twitter:title" content="Мое портфолио">
+    <meta property="twitter:description" content="Здесь вы сможете ознакомиться с моими работами и узнать больше обо мне">
+    <meta property="twitter:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">
+
+    <!-- Favicon  -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.HASH_REF_d2df2895795ab4e6d3b6e21bd26e6ca0.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.HASH_REF_0bd98475f1b25c7c7975a17d4b073bb1.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.HASH_REF_7e0f0b71ea460596ed8e9443b25220c1.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.HASH_REF_242de345e0c42232f5c6d49780e6a0e8.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.HASH_REF_eec2c43dda9774f0fdaacde9755c99f4.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.HASH_REF_0789e6d2d4be76aab022374f5d3abc86.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.HASH_REF_7842ac1aa66f26b9fa7b66cf2a68f2fb.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.HASH_REF_a2745ae174a91edef505c3ca3476f2cd.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.HASH_REF_80454430d7a7a017acdd94162581b1b7.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.HASH_REF_b71416a5356fc18ba8c386e60c033056.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.HASH_REF_f887615af002d3ab5d7543b2ac442fe2.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.HASH_REF_93e981ba26930df112faabf84f91211e.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.HASH_REF_885b63951950dc2b41de3ca2772c5cdd.png">
+    <link rel="manifest" href="/icons/favicon/manifest.js">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.HASH_REF_04b91b67189c7797fb66b81c20ccc7c8.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="stylesheet" href="/index.HASH_REF_995b9af08acb066f3526409772e58606.css">
+    <script src="/index.HASH_REF_c75227167347e57df55b258c72166a09.js"></script>
+
+    <link rel="stylesheet" href="/index.HASH_REF_52b6ff25b2628e0ff83b5918e2fbf5b5.css">
+
+</head>
+
+<body>
+    <aside class="sidepanel">
+
+        <a href="https://github.com/Redd9" class="sidepanel__link" target="_blank">
+            <img src="/github.HASH_REF_2f4c36922885c44a4f63693c5b7e3e6e.svg" alt="github" width="20" height="20">
+        </a>
+
+        <a href="https://www.instagram.com/iamyuridroha/" class="sidepanel__link" target="_blank">
+            <svg width="20" height="20" viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M-6.01032e-07 6.25L-2.73196e-07 13.75C-1.22337e-07 17.2012 2.79875 20 6.25 20L13.75 20C17.2013 20 20 17.2012 20 13.75L20 6.25C20 2.79875 17.2012 -7.51891e-07 13.75 -6.01032e-07L6.25 -2.73196e-07C2.79875 -1.22337e-07 -7.51891e-07 2.79875 -6.01032e-07 6.25ZM13.75 1.875C16.1625 1.875 18.125 3.8375 18.125 6.25L18.125 13.75C18.125 16.1625 16.1625 18.125 13.75 18.125L6.25 18.125C3.8375 18.125 1.875 16.1625 1.875 13.75L1.875 6.25C1.875 3.8375 3.8375 1.875 6.25 1.875L13.75 1.875Z" fill="black"></path>
+            <path d="M5 10C5 12.7612 7.23875 15 10 15C12.7613 15 15 12.7612 15 10C15 7.23875 12.7612 5 10 5C7.23875 5 5 7.23875 5 10ZM13.125 10C13.125 11.7225 11.7225 13.125 10 13.125C8.27625 13.125 6.875 11.7225 6.875 10C6.875 8.2775 8.27625 6.875 10 6.875C11.7225 6.875 13.125 8.2775 13.125 10Z" fill="black"></path>
+            <path d="M5.29123 4.625C5.29123 4.25704 4.99295 3.95875 4.62499 3.95875C4.25703 3.95875 3.95874 4.25704 3.95874 4.625C3.95874 4.99296 4.25703 5.29125 4.62499 5.29125C4.99295 5.29125 5.29123 4.99296 5.29123 4.625Z" fill="black"></path>
+            </svg>
+        </a>
+
+        <a href="https://t.me/Redd9" class="sidepanel__link" target="_blank">
+            <svg focusable="false" data-prefix="fab" data-icon="telegram-plane" class="svg-inline--fa fa-telegram-plane fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512"><path fill="currentColor" d="M446.7 98.6l-67.6 318.8c-5.1 22.5-18.4 28.1-37.3 17.5l-103-75.9-49.7 47.8c-5.5 5.5-10.1 10.1-20.7 10.1l7.4-104.9 190.9-172.5c8.3-7.4-1.8-11.5-12.9-4.1L117.8 284 16.2 252.2c-22.1-6.9-22.5-22.1 4.6-32.7L418.2 66.4c18.4-6.9 34.5 4.1 28.5 32.2z"></path></svg>
+        </a>
+        
+        <div class="sidepanel__divider"></div>
+        <div class="sidepanel__text"><span>Social media</span></div>
+    </aside>
+
+    <section class="promo">
+        <div class="container">
+            <div class="title fz16 promo__mixin">My name is Yuri</div>
+            <h1 class="title fz48 promo__title">I'm future web-developer</h1>
+
+            <div class="promo__btns">
+                <a href="#" class="promo__link btn">Portfolio</a>
+                
+                <a href="#" class="promo__link">About me</a>
+            </div>
+        </div>
+    </section>
+    <script src="/index.HASH_REF_6c289700c20eac7e3f164c94355c732e.js"></script>
+</body>
+</html>

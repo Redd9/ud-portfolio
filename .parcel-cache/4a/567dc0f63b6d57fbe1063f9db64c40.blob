@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Udemy Portfolio</title>
+    <meta name="title" content="Мое портфолио">
+    <meta name="description" content="Здесь вы сможете ознакомиться с моими работами и узнать больше обо мне">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://metatags.io/">
+    <meta property="og:title" content="Мое портфолио">
+    <meta property="og:description" content="Здесь вы сможете ознакомиться с моими работами и узнать больше обо мне">
+    <meta property="og:image" content="fb74e2042350a2d8bfa9ffb042bb06fd">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://metatags.io/">
+    <meta property="twitter:title" content="Мое портфолио">
+    <meta property="twitter:description" content="Здесь вы сможете ознакомиться с моими работами и узнать больше обо мне">
+    <meta property="twitter:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">
+
+    <!-- Favicon  -->
+    <link rel="apple-touch-icon" sizes="57x57" href="53f4e5a09f3790d856104cbbf71f69fb">
+    <link rel="apple-touch-icon" sizes="60x60" href="14bd7d747c88ca2b41e5beb48102b1f7">
+    <link rel="apple-touch-icon" sizes="72x72" href="cae3e5ef82a0f17511f9970636ea9e0b">
+    <link rel="apple-touch-icon" sizes="76x76" href="771dd16c66c4d536d056addb46e9a3f7">
+    <link rel="apple-touch-icon" sizes="114x114" href="2cdabe19a48596b5547e8e01ebffdeca">
+    <link rel="apple-touch-icon" sizes="120x120" href="11cab6f01fd03316d5e7537796730071">
+    <link rel="apple-touch-icon" sizes="144x144" href="d692ce418ce6404ef48b8f7510781e68">
+    <link rel="apple-touch-icon" sizes="152x152" href="2aa3feafc98b3833f702810eeb414887">
+    <link rel="apple-touch-icon" sizes="180x180" href="243a3d4a8f10cf9e5610ba9a33683630">
+    <link rel="icon" type="image/png" sizes="192x192" href="08262b3064c9add59ccd0ea8bb5e9179">
+    <link rel="icon" type="image/png" sizes="32x32" href="76b429db15147e74651fcf4824e7cf03">
+    <link rel="icon" type="image/png" sizes="96x96" href="61da0e6b72e2e3411badf608c3af30ee">
+    <link rel="icon" type="image/png" sizes="16x16" href="e53135f28519b76f1d3b941e4ba563fc">
+    <link rel="manifest" href="7b9ade8fb5ce285903293546ad80fb02">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="a742feb2320866c5a4a93b5c2071b83d">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="stylesheet" href="81b6256be3fb7181103387a94b0cf93d">
+    <script src="798215550bef99ec1741a25f15dc1834"></script>
+
+    <link rel="stylesheet" href="d1e48167ff549099fad9cf453a5ea6ef">
+
+</head>
+
+<body>
+    <aside class="sidepanel">
+
+        <a href="24b3af48835ad1023fd2c66204edbb43" class="sidepanel__link"><img src="427208812393586c2e842a4a18444d01" alt="github" width="20" height="20"></a>
+
+        <a href="3d00bc139925d5f837f8ab8ca822b263" class="sidepanel__link"><img src="05410ae91b112a0828dcf6034d501fed" alt="inst"></a>
+
+        <a href="#" class="sidepanel__link"><img src="d92cb1bbe7aab8e9c70be47d401ada8d" alt="tg" width="20" height="20"></a>
+        
+        <div class="sidepanel__divider"></div>
+        <div class="sidepanel__text"><span>Social media</span></div>
+    </aside>
+
+    <section class="promo">
+        <div class="container">
+            <div class="title fz16 promo__mixin">My name is Yuri</div>
+            <h1 class="title fz48 promo__title">I'm future web-developer</h1>
+
+            <div class="promo__btns">
+                <a href="#" class="promo__link btn">Portfolio</a>
+                
+                <a href="#" class="promo__link">About me</a>
+            </div>
+        </div>
+    </section>
+    <script src="c7bb26c5e85e29dbd5807c89946ff381"></script>
+</body>
+</html>
