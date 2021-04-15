@@ -1,10 +1,18 @@
 .about {
-    padding: 120px 0 120px 0;
+    padding: 120px 0 0 0;
+    &__descr {
+        padding-top: 6px;
+    }
 }
 
+.about__photo {
+    img {
+        width: 100%;
+    }
+}
 .grid-container {
     width: 1040px;
-    height: 600px;
+    height: 560px;
     margin: 0 auto;
     display: grid;
     grid-template-columns: 400px 570px, ;
@@ -27,8 +35,8 @@
     display: grid;
     grid-template-columns: repeat(2, 260px) ;
     grid-template-rows: repeat(2, 116px);
-    grid-auto-rows: 116px;
-    gap: 20px 30px;
+    grid-auto-rows: minmax(116px);
+    gap: 30px 30px;
 }
 
 .about__item {

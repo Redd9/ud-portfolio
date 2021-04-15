@@ -38,10 +38,10 @@
         position: relative;
         // left: -100%;
         width: 345px;
-        background-color: $main-color;
+        background-color: rgb(3, 3, 3);
         height: 100%;
         padding-top: 140px;
-        padding-left: 40px;
+        // padding-left: 40px;
         transition: all 0.6s;
         z-index: 10;
     }
@@ -52,11 +52,18 @@
     top: 25px;
     right: 25px;
     cursor: pointer;
+    transition: all 0.7s;
+    &:hover {
+        transform: rotate(90deg);
+        path {
+            fill: #ffffff;
+        }
+    }
 }
 
 .menu__list {
     list-style-type: none;
-    padding-left: 35px;
+    // padding-left: 35px;
 }
 
 .menu__link {
@@ -65,25 +72,31 @@
     line-height: 36px;
     font-weight: bold;
     margin-bottom: 15px;
-    &:before {
-        content: '';
-        position: absolute;
-        left: -35px;
-        top: 11px;
-        width: 15px;
-        height: 15px;
-        border: 1px solid #000;
-        border-radius: 100%;
-        transition: all 0.7s;
-    }
+    text-align: center;
+    // &:before {
+    //     content: '';
+    //     position: absolute;
+    //     left: -35px;
+    //     top: 11px;
+    //     width: 15px;
+    //     height: 15px;
+    //     border: 1px solid rgb(6, 226, 255);
+    //     border-radius: 100%;
+    //     transition: all 0.7s;
+    // }
     &:hover {
-        &:before {
-        background-color: black;
-        }
+        transform: scale(1.2);
+        // &:before {
+        // background-color: rgb(251, 255, 6);
+        // }
     }
     a {
         color: white;
         text-decoration: none;
+        transition: all 0.6s;
+        &:hover {
+            color: rgb(251, 255, 6);
+        }
     }
 }
 
@@ -96,6 +109,13 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    a {
+        &:hover {
+            svg path {
+                fill: #ffffff;
+            }
+        }
+    }
 }
 
 .menu__overlay {
@@ -104,6 +124,6 @@
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-color: #fff;
+    background-color: rgb(32, 5, 5);
     opacity: 0.75;
 }
