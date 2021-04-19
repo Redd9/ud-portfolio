@@ -5,6 +5,25 @@
     margin: 0;
 }
 
+.section__subtitle {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 60px;
+    margin: 0;
+    text-align: center;
+}
+
+.section__title {
+    text-align: center;
+    position: relative;
+    @include before_circle;
+    &:before {
+        top: -8px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+}
+
 .fz16 {
     font-size: 16px;
     line-height: 24px;
