@@ -13,6 +13,21 @@
     }
 }
 
+@mixin before_circle-skills {
+
+    &:before {
+        content: '';
+        position: absolute;
+        z-index: -1;
+        top: -35%;
+        left: 0;
+        width: 36px;
+        height: 36px;
+        border-radius: 100%;
+        background: $main-color;
+    }
+}
+
 @mixin divider {
     width: 60px;
     height: 0px;
