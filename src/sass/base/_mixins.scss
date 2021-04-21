@@ -48,3 +48,13 @@
         background: $main-color;
     }
 }
+
+@mixin before_circle-price {
+    content: '';
+    width: 15px;
+    height: 15px;
+    background-color: $main-color;
+    border-radius: 100%;
+    position: absolute;
+    top: 5px;
+}
