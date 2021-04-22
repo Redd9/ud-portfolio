@@ -17,15 +17,19 @@
 
   &__txt,
   &__social {
-    margin-top: 20px;
+    margin-top: 15px;
     font-weight: bold;
   }
 
   &__link {
     margin-right: 25px;
+    text-decoration: none;
     img {
       max-width: 30px;
       max-height: 30px;
+    }
+    &:hover {
+      text-decoration: none;
     }
   }
 
@@ -35,6 +39,22 @@
     grid-template: 45px 190px 45px / repeat(2, 280px);
     justify-content: space-between;
     row-gap: 20px;
+  }
+
+  &__triggers {
+    grid-column: 1/3;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    column-gap: 35px;
+  }
+
+  &__policy {
+    font-family: popins;
+    display: flex;
+    align-items: center;
+    input {
+      margin-right: 10px;
+    }
   }
 
   &__input {
