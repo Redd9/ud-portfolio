@@ -1,5 +1,5 @@
 .skills {
-    padding-top: 120px;
+    margin-top: 120px;
     &__tech {
         display: grid;
         grid-template-columns: repeat(4, 270px);
@@ -36,6 +36,7 @@
     display: grid;
     grid-template-columns: repeat(3, 350px);
     grid-template-rows: repeat(2, 70px);
+    grid-auto-rows: 70px;
     gap: 30px 45px;
 }
 
