@@ -13,10 +13,12 @@
 }
 
 .skills__tech-item {
+    position: relative;
     width: 270px;
     height: 270px;
     border: 1px solid black;
     padding: 30px 29px 25px 30px;
+
     img {
         padding-bottom: 20px;
     }
@@ -30,7 +32,25 @@
         padding-top: 15px;
         font-size: 12px;
     }
+
+    &-blur {
+        position: relative;
+        z-index: 1;
+        // filter: grayscale(70%);
+        filter: blur(4.5px);
+        transition: all 0.7s;
+    }
+
+    &-in-pro-descr {
+        position: absolute;
+        z-index: 150;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 110px;
+    }
 }
+
+
 
 .skills__rating_wrapper {
     display: grid;
