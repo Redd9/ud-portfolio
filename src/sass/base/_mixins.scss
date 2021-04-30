@@ -28,6 +28,21 @@
     }
 }
 
+@mixin before_circle-skills-creative {
+
+    &:before {
+        content: '';
+        position: absolute;
+        z-index: -1;
+        top: -35%;
+        left: 45%;
+        width: 36px;
+        height: 36px;
+        border-radius: 100%;
+        background: url(../icons/skills/devil.svg);
+    }
+}
+
 @mixin divider {
     width: 60px;
     height: 0px;

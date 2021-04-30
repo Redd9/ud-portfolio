@@ -67,6 +67,24 @@
     align-content: space-between;
 }
 
+.skills__rating-item-locked {
+    filter: grayscale(100%);
+    transition: all 1s;
+    &:hover {
+        filter: none;
+    }
+}
+
+.skills__rating-item-creative {
+    transition: all 1s;
+    .skills__mixin-creative {
+        @include before_circle-skills;
+        &:hover {
+            @include before_circle-skills-creative;
+        }
+    }
+}
+
 .skills__ratings-line {
     width: 350px;
     height: 14px;
@@ -79,7 +97,24 @@
         background-color: $main-color;
         border-radius: 4px;
     }
+
+    span.rate {
+        font-size: 9px;
+        padding-left: 10px;
+    }
+
+    span.creative {
+        animation: creative 2.5s ease infinite;
+        animation-delay: 3s;
+        &:hover {
+            animation-play-state: paused;
+        }
+    }
 }
+
+// .skills__ratings-line-locked {
+//     background-color: #3d3c3b;
+// }
 
 .skills__mixin {
     position: relative;
@@ -87,5 +122,13 @@
     padding-left: 10px;
     top: -35%;
     @include before_circle-skills;
+}
+
+.skills__mixin-creative {
+    position: relative;
+    z-index: 2;
+    padding-left: 10px;
+    top: -35%;
+    @include before_circle-skills-creative;
 }
 
