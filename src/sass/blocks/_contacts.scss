@@ -51,7 +51,6 @@
   }
 
   &__policy {
-    font-family: popins;
     display: flex;
     align-items: center;
     input {
@@ -81,7 +80,7 @@
     font-size: 12px;
   }
 }
-label {
+label.input-name {
     display: block;
     top: -9px;
     left: 12px;
@@ -100,4 +99,12 @@ label {
 
 .about__divider {
   @include divider
+}
+
+label.privacy {
+  position: relative;
+  top: 5px;
+  font-size: 13px;
+  font-weight: 500;
+  color: black;
 }

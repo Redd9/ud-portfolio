@@ -1,4 +1,4 @@
-const hamburger = document.querySelector('.hamburger'),
+let hamburger = document.querySelector('.hamburger'),
     menu = document.querySelector('.menu'),
     close = document.querySelector('.menu__close');
     overlay = document.querySelector('.menu__overlay');
@@ -22,20 +22,6 @@ counter.forEach( (item, i) => {
     lines[i].style.width = item.innerHTML;
 }); 
 
-
-// const up = window.scroll(function() {
-//     if ($(this).scrollTop() > 1600) {
-//         $('.pageup').fadeIn();
-//     } else {
-//         $('.pageup').fadeOut();
-//     }
-
-//     $("a[href^='#up']").click(function(){
-//         const _href = $(this).attr("href");
-//         $("html, body").animate({scrollTop: $(_href).offset().top+"px"});
-//         return false;
-//     });
-// });
 
 
 $(window).scroll(function() {
